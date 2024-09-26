@@ -29,14 +29,14 @@ This project is an AI-powered transcription system that converts audio recording
 - **SoundDevice & SoundFile:** Libraries used for recording audio from the microphone and saving it in standard audio formats.
 
 ## Project Structure
-
+"""
 ├── app.py                           # Streamlit UI and app logic
 ├── main.py                          # Contains audio recording, transcription, and GPT-4 response logic
 ├── input_audio/                     # Folder to store recorded audio files
 ├── transcribe_output/               # Folder to store transcription and response in JSON format
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # This README file
-
+"""
 ## How to Set Up the Project
 Clone the repository:
 
