@@ -1,0 +1,9 @@
+openai==1.43.0
+pydub==0.25.1
+streamlit==1.38.0
+python-dotenv==1.0.1
+
+
+PyAudio==0.2.14
+soundfile==0.12.1
+sounddevice==0.5.0
